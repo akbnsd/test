@@ -1,4 +1,4 @@
-![build status](https://github.com/github/docs/actions/workflows/build-tests.yml/badge.svg)
+![build status](https://github.com/akbnsd/test/actions/workflows/build-tests.yml/badge.svg)
 
 # test
 test repo for testing github features
