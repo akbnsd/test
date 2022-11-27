@@ -1,0 +1,7 @@
+# binary dirs
+build/
+out/
+
+# editor / IDE configs
+.vscode/
+.vs/
